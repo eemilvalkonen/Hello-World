@@ -5,8 +5,8 @@
 
 | Yleistietoa |    About me        |
 |-------------|-------------|
-| Nimi/Name:      | Eemil Valkonen |
-| Syntymäaika/Birthdate     | 2.10.1998      |
+| Nimi/Name      | Eemil Valkonen |
+| Syntymäaika/Birthday     | 2.10.1998      |
 | Sähköposti/Email | valkonen.eemil@hotmail.com      |
 
 ***
